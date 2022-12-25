@@ -1,12 +1,12 @@
-/*
-	Created by Manouriz
-	https://github.com/manouriz/vultr-monitor
-
-*/
+//
+//	Created by Manouriz
+//	https://github.com/manouriz/vultr-monitor
+//
+//
 {
 
 	"manifest_version": 2,
-	"name": "Vultr-Charts",
+	"name": "Vultr-Monitor",
 	"version": "1.0",
 
 	"description": "Adds a red border to all webpages matching mozilla.org.",
