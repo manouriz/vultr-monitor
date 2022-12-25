@@ -1,4 +1,4 @@
-![vultr-monitor](https://github.com/manouriz/vultr-monitor/raw/master/icons/icon1.png)
+![vultr-monitor](https://github.com/manouriz/vultr-monitor/blob/main/icons/icon1.png)
 
 # vultr-monitor Firefox Extension
 **vultr-monitor** is a Firefox extension which allows you to monitor resource usage of all servers in a single graph. vultr.com is a cloude service provider. In the website of this company if you have many servers, monitoring the resource of all servers is not simply availavle. You need to open each virtual server page and then go to usage-graph tab and see the resource usage of that server. By installing vultr-monitor Firefox extension, by visiting the products page, you see additionally some graphs which allows you to monitor and compare all servers usage in different categories such as:
@@ -9,8 +9,11 @@
 
 # How to install
 - Manually install
-  - Download this repository([vultr-monitor](https://github.com/manouriz/vultr-monitor/archive/refs/heads/main.zip)) and extract zip file into a folder on your computer
-  - Open Firefox Temporary Extensions page by click on this link: [Firefox Temporary Extensions](about:debugging#/runtime/this-firefox)
+  - Download this repository([vultr-monitor.zip](https://github.com/manouriz/vultr-monitor/archive/refs/heads/main.zip)) and extract zip file into a folder on your computer
+  - Open Firefox and copy blow text into address bar and press enter key to open **Temporary Extensions** page:
+    ```
+    about:debugging#/runtime/this-firefox
+    ```
   - Click on 'Load Temporary Add-on...' and select manifest.json file 
     ![Temporary Add-on in Firefox](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox.png)
 
