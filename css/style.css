@@ -1,0 +1,15 @@
+#header1_0 canvas{
+	padding: 2em;
+}
+.chart {
+	
+}
+select.lst {
+  margin: 0 auto;
+  display: block;
+}
+
+.container_chart_bdw {
+  border-bottom: 3px solid green;
+  margin-bottom: 2em;
+}

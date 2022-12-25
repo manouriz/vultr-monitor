@@ -1,0 +1,31 @@
+{
+
+	"manifest_version": 2,
+	"name": "Vultr-Charts",
+	"version": "1.0",
+
+	"description": "Adds a red border to all webpages matching mozilla.org.",
+
+	"icons": {
+		"48": "icons/icon1.png"
+	},
+
+	"content_scripts": [
+		{
+		  "matches": ["*://my.vultr.com/"],
+		  "js": ["js/jquery-3.6.1.min.js","js/chart4.1.1.js","js/moment.v2.29.4.js","js/chartjs-adapter-moment.v1.js","js/config.js","js/monitor.js"],
+		  "css": ["css/style.css"]
+		}
+	],
+	
+
+
+
+	
+	"browser_specific_settings": {
+	  "gecko": {
+		"id": "Servers-Monitors@Vultr.com"
+	  }
+	}
+
+}
