@@ -1,3 +1,9 @@
+/*
+	Created by Manouriz
+	https://github.com/manouriz/vultr-monitor
+
+*/
+
 // -------- divs
 $("#header1_0").append('<div class="container_chart_bdw">');
 var lst_range = document.createElement("select");
