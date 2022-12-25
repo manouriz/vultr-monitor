@@ -16,7 +16,7 @@
     ```
     about:debugging
     ```
-  - Click on **this-firefox** tab on the left menu
+  - Click on **This-Firefox** tab on the left menu
   - Click on 'Load Temporary Add-on...' and select manifest.json file 
     ![Temporary Add-on in Firefox](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox.png)
 
