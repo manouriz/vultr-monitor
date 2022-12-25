@@ -10,7 +10,7 @@
 
 
 # How to install
-- Manually install
+### Manually install
   - Download this repository([vultr-monitor.zip](https://github.com/manouriz/vultr-monitor/archive/refs/heads/main.zip)) and extract zip file into a folder on your computer
   - Open Firefox and copy blow text into address bar and press enter key to open **Temporary Extensions** page:
     ```
@@ -20,7 +20,7 @@
   - Click on 'Load Temporary Add-on...' and select manifest.json file 
     ![Temporary Add-on in Firefox](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox.png)
 
-- Install from Firefox Extesion/Add-ons
+### Install from Firefox Extesion/Add-ons repository
   - I just tried to publish this on Firefox Extensions. Then you can easily visit addons.mozilla.org and install the extension by one click. But it is still in progress...
 
 
