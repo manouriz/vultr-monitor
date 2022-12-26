@@ -10,6 +10,15 @@
 
 
 # How to install
+### Install from Firefox Extesion/Add-ons repository
+	You can simply add **vultr-monitor** from Firefox Add-ons collecton. Open Firefox menu and click on **Add-ons and themes** or press *Ctrl+Shift+A* in Firefox.
+	- Search for *vultr-monitor* in Search box and press *Enter* key.
+	- In the result list, click on *vultr-monitor* and then click on *Add to Firefox* button.
+	- Visit [my.vultr.com](https://my.vultr.com/) and enjoy having graphs in a single view!
+	- You can always enable/disable *vultr-monitor* extension in the *Firefox Extensions* page(Openning from menu or by pressing *Ctrl+Shift+A*
+	![Firefox Add-ons and Themes](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox-addons.png)
+
+
 ### Manually install
   - Download this repository([vultr-monitor.zip](https://github.com/manouriz/vultr-monitor/archive/refs/heads/main.zip)) and extract zip file into a folder on your computer
   - Open Firefox and copy blow text into address bar and press enter key to open **Temporary Extensions** page:
@@ -19,9 +28,6 @@
   - Click on **This-Firefox** tab on the left menu
   - Click on 'Load Temporary Add-on...' and select manifest.json file 
     ![Temporary Add-on in Firefox](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox.png)
-
-### Install from Firefox Extesion/Add-ons repository
-  - I just tried to publish this on Firefox Extensions. Then you can easily visit addons.mozilla.org and install the extension by one click. But it is still in progress...
 
 
 # How to use
