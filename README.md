@@ -11,7 +11,7 @@
 
 # How to install
 ### Install from Firefox Extesion/Add-ons repository
-	You can simply add **vultr-monitor** from Firefox Add-ons collecton. Open Firefox menu and click on **Add-ons and themes** or press *Ctrl+Shift+A* in Firefox.
+	- You can simply add **vultr-monitor** from Firefox Add-ons collecton. Open Firefox menu and click on **Add-ons and themes** or press *Ctrl+Shift+A* in Firefox.
 	- Search for *vultr-monitor* in Search box and press *Enter* key.
 	- In the result list, click on *vultr-monitor* and then click on *Add to Firefox* button.
 	- Visit [my.vultr.com](https://my.vultr.com/) and enjoy having graphs in a single view!
