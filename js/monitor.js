@@ -1,6 +1,7 @@
 /*
 	Created by Manouriz
 	https://github.com/manouriz/vultr-monitor
+	Version 1.0.1
 
 */
 
@@ -41,7 +42,14 @@ function load_data(callback){
 		var url = url_template.replace("{id}",server.id);
 		//console.log('url',url);
 		get_url_content(url,function(data){
-			//console.log('data',data);
+			//console.log('STR: data[0]',data[0]);
+			// sort data
+			data[0] = data[0].sort(function(a,b){return a[0]-b[0]});
+			data[1] = data[1].sort(function(a,b){return a[0]-b[0]});
+			data[2] = data[2].sort(function(a,b){return a[0]-b[0]});
+			data[3] = data[3].sort(function(a,b){return a[0]-b[0]});			
+
+			// add to servers data array
 			datas_bdw.push({'name':server.label, 'grp': 'bdw', 'data':data[0]});
 			datas_cpu.push({'name':server.label, 'grp': 'cpu', 'data':data[1]});
 			datas_dsk.push({'name':server.label, 'grp': 'dsk', 'data':data[2]});
