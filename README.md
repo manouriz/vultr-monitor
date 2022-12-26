@@ -21,17 +21,6 @@
  ![Firefox Add-ons and Themes](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox-addons.png)
 
 
-### Manually install
-  - Download this repository([vultr-monitor.zip](https://github.com/manouriz/vultr-monitor/archive/refs/heads/main.zip)) and extract zip file into a folder on your computer
-  - Open Firefox and copy blow text into address bar and press enter key to open **Temporary Extensions** page:
-    ```
-    about:debugging
-    ```
-  - Click on **This-Firefox** tab on the left menu
-  - Click on 'Load Temporary Add-on...' and select manifest.json file 
-    ![Temporary Add-on in Firefox](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox.png)
-
-
 # How to use
 Just simply open [vultr.com](https://my.vultr.com/) website and login to your account. You will see extra graphs above the page.
 
