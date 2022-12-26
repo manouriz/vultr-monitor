@@ -16,7 +16,7 @@
  - Search for *vultr-monitor* in Search box and press *Enter* key.
  - In the result list, click on *vultr-monitor* and then click on *Add to Firefox* button.
  - Visit [my.vultr.com](https://my.vultr.com/) and enjoy having graphs in a single view!
- - You can always enable/disable *vultr-monitor* extension in the *Firefox Extensions* page(Openning from menu or by pressing *Ctrl+Shift+A*
+ - You can always enable/disable *vultr-monitor* extension in the *Firefox Extensions* page(Openning from menu or by pressing *Ctrl+Shift+A*)
  ![Firefox Add-ons and Themes](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-firefox-addons.png)
 
 
