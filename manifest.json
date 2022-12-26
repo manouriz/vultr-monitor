@@ -7,7 +7,7 @@
 
 	"manifest_version": 2,
 	"name": "Vultr-Monitor",
-	"version": "1.0",
+	"version": "1.0.1",
 
 	"description": "Adds a red border to all webpages matching mozilla.org.",
 
