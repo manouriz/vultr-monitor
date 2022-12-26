@@ -7,9 +7,9 @@
 
 	"manifest_version": 2,
 	"name": "Vultr-Monitor",
-	"version": "1.0.1",
+	"version": "1.0.2",
 
-	"description": "Adds a red border to all webpages matching mozilla.org.",
+	"description": "Monitor usage of all servers resource in a single graph on vultr.com website",
 
 	"icons": {
 		"48": "icons/icon1.png"
