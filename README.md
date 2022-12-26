@@ -33,7 +33,7 @@
 
 
 # How to use
-Just simply open [vultr.com](https://vultr.com/) website and login to your account. You will see extra graphs above the page.
+Just simply open [vultr.com](https://my.vultr.com/) website and login to your account. You will see extra graphs above the page.
 
 ![Bandwidth usage of all servers in a single graph](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-bdw.png)
 
