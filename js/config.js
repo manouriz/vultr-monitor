@@ -5,7 +5,7 @@
 */
 
 function load_config(grp,data){
-	var range_days = $("#lst_range").find(":selected").val();
+	var range_days = $(".lst_box.date_range").find(":checked").val();
 	var unit = 'day';
 	switch(range_days){
 		case '1days': unit = 'hour' ;break;
@@ -44,7 +44,7 @@ function load_config(grp,data){
 	
 	var title = '';
 	switch(grp){
-		case 'bdw': title = 'Usage Chart Bandwidth (Bytes received)'; break;
+		case 'bdw': title = 'Usage Chart Bandwidth (Bytes received in last 30 days)'; break;
 		case 'cpu': title = 'Usage Chart CPU'; break;
 		case 'dsk': title = 'Usage Chart DISK Write'; break;
 		case 'net': title = 'Usage Chart NETWORK (Input)'; break;	
@@ -54,7 +54,7 @@ function load_config(grp,data){
 	  type: 'line',
 	  data: data,
 	  options: {
-		responsive: true,
+		responsive: false,
 		plugins: {
 		  legend: {
 			position: 'top',

@@ -7,7 +7,7 @@
 
 	"manifest_version": 2,
 	"name": "Vultr-Monitor",
-	"version": "1.0.2",
+	"version": "1.1.0",
 
 	"description": "Monitor usage of all servers resource in a single graph on vultr.com website",
 
