@@ -247,7 +247,7 @@ function draw_settings(){
 	// draw TD to fit columns
 	html += '		<td><a id="show_charts" class="button btn-sm">Show Charts</a></td>';
 	html += '	</tr>';
-	html += '<table>';
+	html += '</table>';
 	
 	$("#header1_0").append('<div class="container_settings">').append(html);
 	$("#header1_0").append('<div class="container_charts">');
