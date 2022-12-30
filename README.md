@@ -24,6 +24,8 @@
 # How to use
 Just simply open [vultr.com](https://my.vultr.com/) website and login to your account. You will see extra graphs above the page.
 
+![Version 1.1.x with custom settings](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-ver1.1.0.png)
+
 ![Bandwidth usage of all servers in a single graph](https://github.com/manouriz/vultr-monitor/raw/main/Screenshot-bdw.png)
 
 
